@@ -1,5 +1,5 @@
-##Content
-- [Description] (##difficulties)
+##Table of cntents
+
 
 # Meomory Game
 This is a game to test your memory!
