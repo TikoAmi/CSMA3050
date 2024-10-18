@@ -1,3 +1,6 @@
+##Content
+- [Description] (#difficulties)
+
 # Meomory Game
 This is a game to test your memory!
 
